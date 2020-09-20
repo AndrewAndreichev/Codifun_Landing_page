@@ -9,6 +9,7 @@ body {
     padding-bottom: 3rem;
     color: #5a5a5a;
     overflow-x: hidden;
+    background-color: ;
 }
 
 .custom-navbar {
@@ -239,9 +240,6 @@ body {
     border: none;
 }
 
-.section-title {
-    text-align: center;
-}
 
 .img-responsive {
 
@@ -472,14 +470,13 @@ span {
     color: #ffffff;
 }
 
-.section-title {
-
+ .section-title {
     display: flex;
-    width: 300px;
-    margin: 20px;
-    /* background-color: #fff; */
+    justify-content: center;
+    text-align: center;
+    margin-bottom: 50px;
+       
 }
-
 
 /* MAP */
 
@@ -522,6 +519,7 @@ span {
 
 .text_map {
     text-align: center;
+    margin-bottom: 30px;
 }
 
 /*---------------------------------------
