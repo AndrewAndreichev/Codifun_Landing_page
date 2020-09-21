@@ -94,6 +94,11 @@ body {
 
 /*Слайдер*/
 
+#home {
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+}
+
 .item {
     height: 100vh;
     color: white;
@@ -142,6 +147,10 @@ body {
 
 /* ABOUT */
 
+#about {
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+}
 
 .about-info .fa {
     background: #29ca8e;
@@ -235,6 +244,12 @@ body {
 
 
 /* team */
+
+#team {
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+}
+
 .row {
     position: relative;
     border: none;
@@ -292,6 +307,8 @@ body {
     display: flex;
     align-items: center;
     height: 100vh;
+    padding-top: 3rem;
+    padding-bottom: 3rem;
 
 }
 
@@ -341,6 +358,8 @@ span {
 #courses {
     display: flex;
     align-items: center;
+    padding-top: 3rem;
+    padding-bottom: 3rem;
 
 }
 
@@ -458,6 +477,8 @@ span {
 
 #contact {
     background-color: #3f51b5;
+    padding-top: 3rem;
+    padding-bottom: 3rem;
 }
 
 #contact-form input[type='submit'] {
