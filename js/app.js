@@ -30,10 +30,10 @@ $(document).ready(function () {
     dots: false,
     smartSpeed: 1000,
     nav: true,
-    navText: [
-      '<i class="fa fa-angle"></i>',
-      '<i class="fa fa-angle"></i>'
-    ],
+    // navText: [
+    //   '<i class="fa fa-angle"></i>',
+    //   '<i class="fa fa-angle"></i>'
+    // ],
     responsiveClass: true,
     responsive: {
       0: {
